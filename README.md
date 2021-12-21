@@ -1,5 +1,9 @@
 # S2-RESUBMISSION
-Marks  25:  Timings  1  hour  30min   Code  description: Create  a  program  that  asks  the  user  to  input  the  full  name  and  a  number  between  1  to  10  and  print  the following  for  that  number: 1.  Factorial 2.  Table having  a range  of 20-30:   3.  Square and  cube  of that  number 
+Marks  25:  
+Timings  1  hour  30min   Code  description: Create  a  program  that  asks  the  user  to  input  the  full  name  and  a  number  between  1  to  10  and  print  the following  for  that  number: 
+1.  Factorial 
+2.  2.  Table having  a range  of 20-30:   
+3.  3.  Square and  cube  of that  number 
 ```
 #include <iostream>
 #include <string>
