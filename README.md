@@ -44,3 +44,10 @@ int main()
 }
 ```
 Ms. I made this because I was unsure if I passed or failed my previous score was 12/25 and I had the resubmission link in my Studylab.
+```
+EDIT: 12 / 21 / 2021 (2:57PM) NOTE: Count this one as a practice for myself
+(\_/)
+('_')
+(> <)
+ U U
+ ```
